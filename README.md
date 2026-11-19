@@ -85,7 +85,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Paso 11.5 · Primera partida en modo demo
 <img src="screenshoots/11.5-Escape.jpeg" width="300">
-<img src="screenshoots/11.5-Escape2.jpeg)" width="300">
-<img src="screenshoots-MiAlbum.jpeg" width="300">
-<img src="screenshoots-Realidad.jpeg" width="300">
+<img src="screenshoots/11.5-Escape2.jpeg" width="300">
+<img src="screenshoots/MiAlbum.jpeg" width="300">
+<img src="screenshoots/Realidad.jpeg" width="300">
 
