@@ -1,0 +1,19 @@
+Ronda 1 · Diseña el juego antes de programarlo
+Mini documento de diseño
+Los videojuegos profesionales empiezan con un documento de diseño que responde preguntas simples. Responde estas en equipo antes de abrir el editor; después cada respuesta se convertirá en una prueba:
+¿Cuál es el objetivo? → Atrapar a los 6 personajes de la Independencia.
+¿Cómo se encuentra a un personaje? → Con el radar, el "frío o caliente" y la vista en realidad aumentada.
+¿Cuándo se puede atrapar? → Estando a 15 metros o menos.
+¿Cómo se atrapa? → Respondiendo bien una pregunta de historia.
+¿Qué pasa si fallas? → Tienes 2 intentos; con 2 fallos el personaje huye y reaparece en otro lugar.
+¿Cómo se puntúa? → 100 puntos a la primera, 50 a la segunda.
+¿Cómo se gana? → Atrapando a los 6. El progreso se guarda en el álbum.
+¿Qué tan lejos están? → Entre 60 y 500 metros del Jardín Principal.
+
+La escala de temperatura
+Frío o caliente es un juego de niños que funciona en cualquier edad. Definimos los umbrales:
+Ardiente: 15 m o menos (ya puedes atraparlo).
+Caliente: hasta 50 m.
+Tibio: hasta 150 m.
+Frío: hasta 400 m.
+Helado: más lejos.
